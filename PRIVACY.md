@@ -1,6 +1,6 @@
 # privacy policy
 
-last updated 2024-07-01
+last updated 2024-07-10
 
 your privacy is important to us. it is our policy to respect your privacy regarding any information we may collect from you through our app.
 
@@ -14,4 +14,4 @@ we may update our privacy policy from time to time. we encourage you to review t
 
 ## contact us
 
-if you have any questions about this privacy policy, please get in touch with me at tomomyrman+rainscreen@proton.me.
+if you have any questions about this privacy policy, please get in touch with me at tomomyrman+coralscreen@proton.me.
