@@ -7,21 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E5681E422C3E8CD200FF7432 /* coral_screenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E412C3E8CD200FF7432 /* coral_screenApp.swift */; };
-		E5681E442C3E8CD200FF7432 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E432C3E8CD200FF7432 /* ContentView.swift */; };
-		E5681E462C3E8CD200FF7432 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E452C3E8CD200FF7432 /* Item.swift */; };
-		E5681E482C3E8CD400FF7432 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5681E472C3E8CD400FF7432 /* Assets.xcassets */; };
+		E52025242C3EB38300D6FF59 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E52025232C3EB38300D6FF59 /* Assets.xcassets */; };
+		E52025262C3EC05300D6FF59 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E52025252C3EC05300D6FF59 /* Info.plist */; };
 		E5681E4B2C3E8CD400FF7432 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5681E4A2C3E8CD400FF7432 /* Preview Assets.xcassets */; };
+		E5681E782C3E8CFF00FF7432 /* MenuItemsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E522C3E8CF700FF7432 /* MenuItemsApp.swift */; };
+		E5681E852C3E8CFF00FF7432 /* OpenURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E602C3E8CF700FF7432 /* OpenURL.swift */; };
+		E5681E862C3E8CFF00FF7432 /* Popups.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E612C3E8CF700FF7432 /* Popups.swift */; };
+		E5681E872C3E8CFF00FF7432 /* StateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E622C3E8CF700FF7432 /* StateManager.swift */; };
+		E5681E882C3E8CFF00FF7432 /* CustomisationsSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E642C3E8CF700FF7432 /* CustomisationsSection.swift */; };
+		E5681E892C3E8CFF00FF7432 /* MonitorSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E652C3E8CF700FF7432 /* MonitorSection.swift */; };
+		E5681E8B2C3E8CFF00FF7432 /* SystemSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E672C3E8CF700FF7432 /* SystemSection.swift */; };
+		E5681E962C3E8CFF00FF7432 /* CoralScreenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E742C3E8CFF00FF7432 /* CoralScreenApp.swift */; };
+		E5681E982C3E8CFF00FF7432 /* OceanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5681E762C3E8CFF00FF7432 /* OceanView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E52025232C3EB38300D6FF59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E52025252C3EC05300D6FF59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E5681E3E2C3E8CD200FF7432 /* coral screen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "coral screen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E5681E412C3E8CD200FF7432 /* coral_screenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coral_screenApp.swift; sourceTree = "<group>"; };
-		E5681E432C3E8CD200FF7432 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E5681E452C3E8CD200FF7432 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
-		E5681E472C3E8CD400FF7432 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5681E4A2C3E8CD400FF7432 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E5681E4C2C3E8CD400FF7432 /* coral_screen.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = coral_screen.entitlements; sourceTree = "<group>"; };
+		E5681E522C3E8CF700FF7432 /* MenuItemsApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuItemsApp.swift; sourceTree = "<group>"; };
+		E5681E602C3E8CF700FF7432 /* OpenURL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenURL.swift; sourceTree = "<group>"; };
+		E5681E612C3E8CF700FF7432 /* Popups.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Popups.swift; sourceTree = "<group>"; };
+		E5681E622C3E8CF700FF7432 /* StateManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StateManager.swift; sourceTree = "<group>"; };
+		E5681E642C3E8CF700FF7432 /* CustomisationsSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomisationsSection.swift; sourceTree = "<group>"; };
+		E5681E652C3E8CF700FF7432 /* MonitorSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonitorSection.swift; sourceTree = "<group>"; };
+		E5681E672C3E8CF700FF7432 /* SystemSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SystemSection.swift; sourceTree = "<group>"; };
+		E5681E742C3E8CFF00FF7432 /* CoralScreenApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoralScreenApp.swift; sourceTree = "<group>"; };
+		E5681E762C3E8CFF00FF7432 /* OceanView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OceanView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +52,7 @@
 		E5681E352C3E8CD200FF7432 = {
 			isa = PBXGroup;
 			children = (
+				E52025252C3EC05300D6FF59 /* Info.plist */,
 				E5681E402C3E8CD200FF7432 /* coral screen */,
 				E5681E3F2C3E8CD200FF7432 /* Products */,
 			);
@@ -54,11 +69,13 @@
 		E5681E402C3E8CD200FF7432 /* coral screen */ = {
 			isa = PBXGroup;
 			children = (
-				E5681E412C3E8CD200FF7432 /* coral_screenApp.swift */,
-				E5681E432C3E8CD200FF7432 /* ContentView.swift */,
-				E5681E452C3E8CD200FF7432 /* Item.swift */,
-				E5681E472C3E8CD400FF7432 /* Assets.xcassets */,
+				E5681E682C3E8CF700FF7432 /* Menu */,
+				E5681E632C3E8CF700FF7432 /* Utils */,
+				E5681E772C3E8CFF00FF7432 /* Views */,
 				E5681E4C2C3E8CD400FF7432 /* coral_screen.entitlements */,
+				E5681E742C3E8CFF00FF7432 /* CoralScreenApp.swift */,
+				E5681E522C3E8CF700FF7432 /* MenuItemsApp.swift */,
+				E52025232C3EB38300D6FF59 /* Assets.xcassets */,
 				E5681E492C3E8CD400FF7432 /* Preview Content */,
 			);
 			path = "coral screen";
@@ -70,6 +87,34 @@
 				E5681E4A2C3E8CD400FF7432 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E5681E632C3E8CF700FF7432 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				E5681E602C3E8CF700FF7432 /* OpenURL.swift */,
+				E5681E612C3E8CF700FF7432 /* Popups.swift */,
+				E5681E622C3E8CF700FF7432 /* StateManager.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		E5681E682C3E8CF700FF7432 /* Menu */ = {
+			isa = PBXGroup;
+			children = (
+				E5681E642C3E8CF700FF7432 /* CustomisationsSection.swift */,
+				E5681E652C3E8CF700FF7432 /* MonitorSection.swift */,
+				E5681E672C3E8CF700FF7432 /* SystemSection.swift */,
+			);
+			path = Menu;
+			sourceTree = "<group>";
+		};
+		E5681E772C3E8CFF00FF7432 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E5681E762C3E8CFF00FF7432 /* OceanView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,7 +176,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5681E4B2C3E8CD400FF7432 /* Preview Assets.xcassets in Resources */,
-				E5681E482C3E8CD400FF7432 /* Assets.xcassets in Resources */,
+				E52025242C3EB38300D6FF59 /* Assets.xcassets in Resources */,
+				E52025262C3EC05300D6FF59 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,9 +188,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E5681E442C3E8CD200FF7432 /* ContentView.swift in Sources */,
-				E5681E462C3E8CD200FF7432 /* Item.swift in Sources */,
-				E5681E422C3E8CD200FF7432 /* coral_screenApp.swift in Sources */,
+				E5681E962C3E8CFF00FF7432 /* CoralScreenApp.swift in Sources */,
+				E5681E882C3E8CFF00FF7432 /* CustomisationsSection.swift in Sources */,
+				E5681E982C3E8CFF00FF7432 /* OceanView.swift in Sources */,
+				E5681E852C3E8CFF00FF7432 /* OpenURL.swift in Sources */,
+				E5681E862C3E8CFF00FF7432 /* Popups.swift in Sources */,
+				E5681E892C3E8CFF00FF7432 /* MonitorSection.swift in Sources */,
+				E5681E872C3E8CFF00FF7432 /* StateManager.swift in Sources */,
+				E5681E8B2C3E8CFF00FF7432 /* SystemSection.swift in Sources */,
+				E5681E782C3E8CFF00FF7432 /* MenuItemsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +326,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_ENTITLEMENTS = "coral screen/coral_screen.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -283,6 +336,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +357,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_ENTITLEMENTS = "coral screen/coral_screen.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -311,6 +367,8 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
